@@ -1,0 +1,4 @@
+[SSID Setting]
+
+# 连接到WiFi名为“wifi-name”时停止Surge
+"ZCL" suspend=true
