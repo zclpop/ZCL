@@ -1,2 +1,2 @@
-- DOMAIN,hls.itunes.apple.com,Proxy
-- DOMAIN,amt.itunes.apple.com,Proxy
+DOMAIN,hls.itunes.apple.com,Proxy
+DOMAIN,hls-amt.itunes.apple.com,Proxy
