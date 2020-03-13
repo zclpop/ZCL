@@ -2,3 +2,6 @@ DOMAIN-SUFFIX,chdbits.co,Proxy
 DOMAIN-SUFFIX,nvidia.com,Proxy
 DOMAIN-SUFFIX,m-team.cc,Proxy
 DOMAIN-SUFFIX,myqnapcloud.com,DIRECT
+DOMAIN-SUFFIX,alibabausercontent.com,Proxy
+DOMAIN-SUFFIX,alicdn.com,Proxy
+DOMAIN-SUFFIX,taobao.com,Proxy
