@@ -1,3 +1,4 @@
 - DOMAIN-SUFFIX,chdbits.co,Proxy
 - DOMAIN-SUFFIX,nvidia.com,Proxy
 - DOMAIN-SUFFIX,m-team.cc,Proxy
+- IP-CIDR,45.116.152.0/22,REJECT,no-resolve
