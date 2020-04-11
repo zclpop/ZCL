@@ -4,3 +4,4 @@
 - IP-CIDR,45.116.153.125/32,REJECT,no-resolve
 - DOMAIN,ip.istatmenus.app,DIRECT
 - DOMAIN,plex.tv,DIRECT
+- DOMAIN-SUFFIX,iotcplatform.com,DIRECT
