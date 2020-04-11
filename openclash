@@ -2,3 +2,5 @@
 - DOMAIN-SUFFIX,nvidia.com,Proxy
 - DOMAIN-SUFFIX,m-team.cc,Proxy
 - IP-CIDR,45.116.153.125/32,REJECT,no-resolve
+- DOMAIN,ip.istatmenus.app,DIRECT
+- DOMAIN,plex.tv,DIRECT
