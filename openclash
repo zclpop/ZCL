@@ -3,6 +3,6 @@
 - DOMAIN-SUFFIX,m-team.cc,Proxy
 - IP-CIDR,45.116.153.125/32,REJECT,no-resolve
 - DOMAIN,ip.istatmenus.app,DIRECT
-- DOMAIN,downloads.plex.tv,DIRECT
+- DOMAIN,downloads.plex.tv,Proxy
 - DOMAIN,plex.tv,DIRECT
 - DOMAIN-SUFFIX,iotcplatform.com,DIRECT
