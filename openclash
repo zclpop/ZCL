@@ -1,7 +1,7 @@
 - DOMAIN-SUFFIX,chdbits.co,Proxy
 - DOMAIN-SUFFIX,nvidia.com,Proxy
 - DOMAIN-SUFFIX,m-team.cc,Proxy
-- IP-CIDR,45.116.153.125/32,REJECT,no-resolve
+- IP-CIDR,45.116.153.0/24,REJECT,no-resolve
 - DOMAIN,ip.istatmenus.app,DIRECT
 - DOMAIN,downloads.plex.tv,Proxy
 - DOMAIN,plex.tv,DIRECT
