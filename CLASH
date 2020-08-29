@@ -2,8 +2,4 @@
 - DOMAIN-SUFFIX,nvidia.com,Proxy
 - DOMAIN-SUFFIX,m-team.cc,Proxy
 - DOMAIN-SUFFIX,myqnapcloud.com,DIRECT
-- DOMAIN,dler.cloud,Proxy
-- DOMAIN-SUFFIX,ptsbao.club,Proxy
-- DOMAIN-SUFFIX,dmhy.org,Proxy
-- DOMAIN-SUFFIX,epicgames.com,Proxy
-- DOMAIN-SUFFIX,tmdb.org,Proxy
+- DOMAIN-SUFFIX,vmware.com,Proxy
