@@ -4,3 +4,4 @@
 - DOMAIN-SUFFIX,myqnapcloud.com,DIRECT
 - DOMAIN-SUFFIX,vmware.com,Proxy
 - DOMAIN-SUFFIX,7713show.com,DIRECT
+- DOMAIN-SUFFIX,nvidia.cn,Proxy
