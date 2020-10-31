@@ -9,4 +9,5 @@
 - DOMAIN-SUFFIX,meta.plex.tv,Proxy
 - DOMAIN-SUFFIX,metadata-static.plex.tv,Proxy
 - DOMAIN-SUFFIX,downloads.plex.tv,Proxy
+- DOMAIN-SUFFIX,metadata.provider.plex.tv,Proxy
 - DOMAIN-SUFFIX,plex.tv,DIRECT
