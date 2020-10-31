@@ -7,4 +7,6 @@
 - DOMAIN-SUFFIX,nvidia.cn,Proxy
 - DOMAIN-SUFFIX,analytics.plex.tv,Proxy
 - DOMAIN-SUFFIX,meta.plex.tv,Proxy
+- DOMAIN-SUFFIX,metadata-static.plex.tv,Proxy
+- DOMAIN-SUFFIX,downloads.plex.tv,Proxy
 - DOMAIN-SUFFIX,plex.tv,DIRECT
