@@ -5,5 +5,6 @@
 - DOMAIN-SUFFIX,vmware.com,Proxy
 - DOMAIN-SUFFIX,7713show.com,DIRECT
 - DOMAIN-SUFFIX,nvidia.cn,Proxy
+- DOMAIN-SUFFIX,analytics.plex.tv,Proxy
+- DOMAIN-SUFFIX,meta.plex.tv,Proxy
 - DOMAIN-SUFFIX,plex.tv,DIRECT
-- DOMAIN-SUFFIX,amdc.m.taobao.com,REJECT
