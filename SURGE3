@@ -3,4 +3,4 @@ DOMAIN-SUFFIX,nvidia.com,Proxy
 DOMAIN-SUFFIX,m-team.cc,Proxy
 DOMAIN-SUFFIX,myqnapcloud.com,DIRECT
 DOMAIN-SUFFIX,nvidia.cn,Proxy
-DOMAIN-SUFFIX,app-measurement.com,Proxy
+DOMAIN-SUFFIX,app-measurement.com,DIRECT
