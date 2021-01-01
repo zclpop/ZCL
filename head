@@ -1,1 +1,1 @@
-cn-s2.logon.battlenet.com.cn
+always-real-ip = *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com, cn-s2.logon.battlenet.com.cn
