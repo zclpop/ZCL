@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,myqnapcloud.com,DIRECT
 DOMAIN-SUFFIX,nvidia.cn,Proxy
 DOMAIN-SUFFIX,twilio.com,DIRECT
 DOMAIN-SUFFIX,ui.com.cn,Proxy
+SRC-IP,192.168.1.50,DIRECT
