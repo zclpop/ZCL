@@ -1,3 +1,4 @@
+- DOMAIN-SUFFIX,plex.tv,DIRECT
 - DOMAIN-SUFFIX,chdbits.co,Proxy
 - DOMAIN-SUFFIX,nvidia.com,Proxy
 - DOMAIN-SUFFIX,m-team.cc,Proxy
@@ -12,4 +13,3 @@
 - DOMAIN-SUFFIX,downloads.plex.tv,Proxy
 - DOMAIN-SUFFIX,metadata.provider.plex.tv,Proxy
 - DOMAIN-SUFFIX,plugins.plex.tv,Proxy
-- DOMAIN-SUFFIX,plex.tv,DIRECT
