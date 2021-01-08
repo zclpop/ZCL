@@ -1,4 +1,5 @@
 - DOMAIN-SUFFIX,plex.tv,DIRECT
+- DOMAIN-SUFFIX,192.168.1.50,DIRECT
 - DOMAIN-SUFFIX,chdbits.co,Proxy
 - DOMAIN-SUFFIX,nvidia.com,Proxy
 - DOMAIN-SUFFIX,m-team.cc,Proxy
