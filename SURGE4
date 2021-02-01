@@ -6,4 +6,4 @@ DOMAIN-SUFFIX,nvidia.cn,Proxy
 DOMAIN-SUFFIX,twilio.com,DIRECT
 DOMAIN-SUFFIX,ui.com.cn,Proxy
 DOMAIN,plex.tv,DIRECT
-DOMAIN-SUFFIX,plex.tv.cn,Proxy
+DOMAIN-SUFFIX,plex.tv,Proxy
