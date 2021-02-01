@@ -1,4 +1,3 @@
-PROCESS-NAME,/Applications/qbittorrent.app/Contents/MacOS/qbittorrent,DIRECT
 DOMAIN-SUFFIX,chdbits.co,Proxy
 DOMAIN-SUFFIX,nvidia.com,Proxy
 DOMAIN-SUFFIX,m-team.cc,Proxy
@@ -6,4 +5,5 @@ DOMAIN-SUFFIX,myqnapcloud.com,DIRECT
 DOMAIN-SUFFIX,nvidia.cn,Proxy
 DOMAIN-SUFFIX,twilio.com,DIRECT
 DOMAIN-SUFFIX,ui.com.cn,Proxy
-DOMAIN-SUFFIX,plex.tv,DIRECT
+DOMAIN,plex.tv,DIRECT
+DOMAIN-SUFFIX,plex.tv.cn,Proxy
