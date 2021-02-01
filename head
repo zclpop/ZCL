@@ -24,7 +24,6 @@ show-error-page-for-reject = true
 tls-provider = default
 use-default-policy-if-wifi-not-primary = false
 # wifi-assist = true
-doh-server = https://dns.alidns.com/dns-query
 
 [Replica]
 hide-apple-request = true
