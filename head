@@ -24,6 +24,7 @@ show-error-page-for-reject = true
 tls-provider = default
 use-default-policy-if-wifi-not-primary = false
 # wifi-assist = true
+http-api = 832026@0.0.0.0:6171
 
 [Replica]
 hide-apple-request = true
