@@ -1,5 +1,6 @@
 - DOMAIN,plex.tv,DIRECT
 - DOMAIN-SUFFIX,plex.tv,Proxy
+- DOMAIN-SUFFIX,m-team.cc,Proxy
 - DOMAIN-SUFFIX,nvidia.com,Proxy
 - DOMAIN-SUFFIX,myqnapcloud.com,DIRECT
 - DOMAIN-SUFFIX,vmware.com,Proxy
