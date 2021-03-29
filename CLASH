@@ -6,4 +6,4 @@
 - DOMAIN-SUFFIX,vmware.com,Proxy
 - DOMAIN-SUFFIX,nvidia.cn,Proxy
 - DOMAIN-SUFFIX,nvidia.com,Proxy
-- DOMAIN-SUFFIX,test-ipv6.com,DIRECT
+- DOMAIN-KEYWORD,ipv6,DIRECT
